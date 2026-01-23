@@ -17,4 +17,4 @@ TagPiper gives you complete control over your data collection and tag deployment
 ## Links
 
 - **Website:** [tagpiper.com](https://tagpiper.com)
-- **By:** [Analytics Debugger](https://www.analyticsdebugger.com)
+- **By:** [Analytics Debugger](https://www.analytics-debugger.com)
